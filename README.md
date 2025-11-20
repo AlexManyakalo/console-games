@@ -1,4 +1,6 @@
-Console games:
-1) [Dice](https://github.com/AlexManyakalo/console-games/tree/dice) - program should simulate the tossing of a dice and show on the screen what number has fallen out. When the Enter key is pressed, the program makes another "roll" of the dice.
-<img width="96" height="139" alt="image" src="https://github.com/user-attachments/assets/4de386d3-956c-4dec-a154-800919e93f77" />
-<img width="99" height="139" alt="image" src="https://github.com/user-attachments/assets/c5af7d79-f007-4131-a2aa-f6e66cabde1e" />
+Game:  
+"Guess number" - computer guesses a random number from 1 to 100, and the user must guess this number in 7 attempts. At the same time, the program gives the user additional hints. If the attempts end, the user loses.  
+  
+<img width="293" height="324" alt="image" src="https://github.com/user-attachments/assets/96ca41b5-66ba-480d-a896-581d7153c1fb" />
+<img width="306" height="134" alt="image" src="https://github.com/user-attachments/assets/98900832-5671-4e43-a4a0-23d3f7f64132" />
+
